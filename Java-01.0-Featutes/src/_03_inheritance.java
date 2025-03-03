@@ -1,3 +1,6 @@
+//Notes:
+//Inheritance allows a new class to inherit properties and methods from an existing class.
+
 // Base class
 class Animal {
     void eat() {

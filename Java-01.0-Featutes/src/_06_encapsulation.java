@@ -1,3 +1,7 @@
+//Notes:
+//Encapsulation restricts direct access to some of an object’s components and can prevent the accidental modification of data.
+
+
 class Person {
     private String name; // Private variable
 

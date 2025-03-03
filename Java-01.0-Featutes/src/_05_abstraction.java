@@ -1,3 +1,6 @@
+//Notes:
+//Abstraction is the concept of hiding the complex implementation details and showing only the essential features of an object.
+
 // Abstract class
 abstract class Shape {
     abstract void draw(); // Abstract method

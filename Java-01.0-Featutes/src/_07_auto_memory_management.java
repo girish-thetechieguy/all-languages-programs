@@ -1,3 +1,9 @@
+//Notes:
+// Automatic memory management in Java, primarily through garbage collection,
+// helps manage memory allocation and deallocation without explicit programmer intervention.
+// While Java 1.0 did not have advanced garbage collection techniques,
+// it introduced the basic concept of automatic memory management.
+
 // Class representing a simple object
 class MyClass {
     private String name;
@@ -44,3 +50,12 @@ public class _07_auto_memory_management {
         }
     }
 }
+
+//Class Definition: The MyClass class has a constructor that initializes the object's name and a method to display that name.
+//Finalizer Method: The finalize() method is called by the garbage collector when the object is about to be garbage collected. Note that this method is not commonly used in modern Java, as it has been deprecated in later versions.
+//Creating Objects: In the main method, two instances of MyClass are created.
+//Nullifying References: The references obj1 and obj2 are set to null, making the objects they were pointing to eligible for garbage collection.
+//Requesting Garbage Collection: The System.gc() method is called to suggest that the Java Virtual Machine (JVM) perform garbage collection. However, this is just a suggestion, and the JVM may choose not to perform it immediately.
+//Delay: A short delay is added to allow time for the garbage collector to finalize the objects, though it's not guaranteed when it will run.
+
+

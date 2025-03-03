@@ -1,3 +1,7 @@
+//Notes:
+//Polymorphism allows methods to do different things based on the object that it is acting upon.
+
+
 // Base class
 class _04_Animal {
     void sound() {
