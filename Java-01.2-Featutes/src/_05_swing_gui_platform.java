@@ -1,3 +1,7 @@
+/**
+ * Note: Java 2, which introduced the concept of a Java 2 Platform with the Swing GUI toolkit and collections framework.
+ */
+
 import javax.swing.*;
 import java.awt.*;
 

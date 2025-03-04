@@ -1,3 +1,7 @@
+/**
+ * Note: Java 1.4 introduced a new logging API that offers a flexible logging framework for applications.
+ */
+
 import java.util.logging.Logger;
 import java.util.logging.Level;
 

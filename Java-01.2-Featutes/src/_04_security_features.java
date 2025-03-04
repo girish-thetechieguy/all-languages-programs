@@ -1,4 +1,7 @@
-//WHY : allowing developers to create applications with more robust security policies.
+/**
+ * WHY : Allowing developers to create applications with more robust security policies.
+ */
+
 
 public class _04_security_features {
     public static void main(String[] args) {

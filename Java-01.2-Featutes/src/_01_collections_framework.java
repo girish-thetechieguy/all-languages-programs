@@ -1,4 +1,7 @@
-// Notes: Java 1.2 introduced a unified collections framework that provides data structures like lists, sets, and maps.
+/**
+ * Notes: Java 1.2 introduced a unified collections framework that provides data structures like lists, sets, and maps.
+ */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 

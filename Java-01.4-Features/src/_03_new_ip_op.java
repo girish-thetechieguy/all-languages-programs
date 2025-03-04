@@ -1,3 +1,7 @@
+/**
+ * Note:Java NIO introduced a new file I/O API that provides a more scalable and efficient way to handle file operations.
+ */
+
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;

@@ -1,4 +1,7 @@
-// WHY:    This helps in logically grouping classes.
+/**
+ * WHY:    This helps in logically grouping classes.
+ */
+
 
 class OuterClass {
     private String outerField = "Outer field";

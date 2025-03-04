@@ -1,8 +1,10 @@
-//Notes:
-// Automatic memory management in Java, primarily through garbage collection,
-// helps manage memory allocation and deallocation without explicit programmer intervention.
-// While Java 1.0 did not have advanced garbage collection techniques,
-// it introduced the basic concept of automatic memory management.
+/**
+ * Notes:
+ *  Automatic memory management in Java, primarily through garbage collection,
+ *  helps manage memory allocation and deallocation without explicit programmer intervention.
+ *  While Java 1.0 did not have advanced garbage collection techniques,
+ *  it introduced the basic concept of automatic memory management.
+ */
 
 // Class representing a simple object
 class MyClass {

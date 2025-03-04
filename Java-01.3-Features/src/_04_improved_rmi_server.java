@@ -1,3 +1,7 @@
+/**
+ * Note: This example shows a simple RMI server and client setup.
+ */
+
 import java.rmi.*;
 import java.rmi.server.*;
 

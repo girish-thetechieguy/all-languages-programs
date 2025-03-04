@@ -1,3 +1,7 @@
+/**
+ * Note: Sound API provides capabilities for playing and capturing audio.
+ */
+
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;

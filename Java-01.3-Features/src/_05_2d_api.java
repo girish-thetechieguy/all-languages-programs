@@ -1,3 +1,7 @@
+/**
+ * Note:Java 2D API provides advanced graphics capabilities, including support for shapes, text, and images.
+ */
+
 import javax.swing.*;
 import java.awt.*;
 

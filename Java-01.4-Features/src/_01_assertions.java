@@ -1,3 +1,8 @@
+/**
+ * Note:The assertion mechanism allows developers to test assumptions about their program.
+ * Assertions can be enabled or disabled at runtime.
+ */
+
 public class _01_assertions {
     public static void main(String[] args) {
         int x = 10;

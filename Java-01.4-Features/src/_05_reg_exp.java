@@ -1,3 +1,7 @@
+/**
+ * Note: introduced support for regular expressions in the java.util.regex package, allowing for powerful string manipulation and pattern matching.
+ */
+
 import java.util.regex.*;
 
 public class _05_reg_exp {

@@ -1,6 +1,6 @@
-// Note: Its a rich GUI toolkit that provides a more sophisticated set of components than AWT.
-
-
+/**
+ * Note: Its a rich GUI toolkit that provides a more sophisticated set of components than AWT.
+ */
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

@@ -1,4 +1,7 @@
-// WHY: Event Dispatch Thread, which ensures that GUI updates happen on a single thread.
+/**
+ * WHY: Event Dispatch Thread, which ensures that GUI updates happen on a single thread.
+  */
+
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;

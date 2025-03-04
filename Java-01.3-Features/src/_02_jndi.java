@@ -1,3 +1,7 @@
+/**
+ * Note : JNDI provides a unified interface for accessing different naming and directory services.
+ */
+
 import javax.naming.Context;
 import javax.naming.InitialContext;
 import javax.naming.NamingException;

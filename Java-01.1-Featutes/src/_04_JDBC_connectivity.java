@@ -1,3 +1,7 @@
+/**
+ * JDBC API, which allows Java applications to connect to databases.
+ */
+
 import java.sql.*;
 
 public class _04_JDBC_connectivity {

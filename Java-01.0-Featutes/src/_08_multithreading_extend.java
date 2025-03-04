@@ -1,3 +1,7 @@
+/**
+ * Notes:
+ * introduced basic support for multithreading, allowing concurrent execution of code.
+ */
 // Custom thread class
 class MyThread extends Thread {
     @Override
