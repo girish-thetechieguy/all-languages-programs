@@ -1,3 +1,5 @@
+// Notes:  These are reusable software components that follow specific conventions.
+
 class Person {
     private String name;
     private int age;

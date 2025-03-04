@@ -1,3 +1,4 @@
+// Note : Java 1.1 improved the AWT with new components and event handling.
 import java.awt.*;
 import java.awt.event.*;
 

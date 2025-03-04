@@ -1,5 +1,7 @@
-//Notes:
-//A class is a blueprint for creating objects, and an object is an instance of a class.
+/**
+ * Notes:
+ * A class is a blueprint for creating objects, and an object is an instance of a class.
+*/
 
 // Class definition
 class Dog {
