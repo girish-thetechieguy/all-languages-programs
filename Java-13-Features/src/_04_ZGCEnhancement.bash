@@ -1,0 +1,1 @@
+java -XX:+UseZGC -jar YourApplication.jar

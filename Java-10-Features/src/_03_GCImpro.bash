@@ -1,0 +1,1 @@
+java -XX:+UseG1GC -jar YourApplication.jar
