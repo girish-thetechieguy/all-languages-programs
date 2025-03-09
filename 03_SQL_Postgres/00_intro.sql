@@ -1,0 +1,7 @@
+--What is SQL?
+--Definition and purpose
+--SQL vs. NoSQL
+--Database Concepts
+--Database management systems (DBMS)
+--Relational databases
+--Tables, rows, columns, and keys
