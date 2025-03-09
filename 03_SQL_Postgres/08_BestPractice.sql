@@ -1,0 +1,6 @@
+--Latest Trends in SQL
+--New SQL standards
+--Emerging SQL technologies
+--Best Practices
+--Writing clean and maintainable SQL code
+--Documentation and version control

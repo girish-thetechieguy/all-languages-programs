@@ -1,0 +1,6 @@
+--Database Design Principles
+--Entity-Relationship (ER) modeling
+--Understanding entities and relationships
+--Normalization
+--First, Second, and Third Normal Forms (1NF, 2NF, 3NF)
+--Denormalization

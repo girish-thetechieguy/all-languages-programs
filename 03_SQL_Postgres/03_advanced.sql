@@ -1,0 +1,16 @@
+--Transactions
+--ACID properties
+--COMMIT and ROLLBACK statements
+--Triggers
+--Creating triggers
+--Use cases for triggers
+--Advanced Joins
+--Self joins
+--Using JOIN with USING and ON
+--Window Functions
+--ROW_NUMBER(), RANK(), DENSE_RANK()
+--Aggregating over partitions
+--Common Table Expressions (CTEs)
+--Recursive CTEs
+--Non-recursive CTEs
+

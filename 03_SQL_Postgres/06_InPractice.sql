@@ -1,0 +1,5 @@
+--Using SQL with Applications
+--SQL integration in programming languages (e.g., Python, Java, PHP)
+--Database Management
+--Backup and recovery strategies
+--User permissions and roles

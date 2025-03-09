@@ -1,0 +1,15 @@
+--Data Retrieval
+--SELECT statement
+--Filtering results with WHERE
+--Sorting results with ORDER BY
+--Limiting results with LIMIT/OFFSET
+--Aggregate Functions
+--COUNT(), SUM(), AVG(), MIN(), MAX()
+--Grouping results with GROUP BY
+--Filtering groups with HAVING
+--Joins
+--INNER JOIN
+--LEFT JOIN
+--RIGHT JOIN
+--FULL OUTER JOIN
+--CROSS JOIN
