@@ -2,10 +2,10 @@
 
 This repository includes all the programs I have learned or am willing to learn. This journey from doubt to belief starts here.
 
-## Java
+## Key Features of JDK 1.0
 
-- **1. All versions till 23**: Java code samples to demonstrate features version by version.
-- **Projects**: 
+- **Platform Independence**: Java code is compiled into bytecode, which can run on any platform with a Java Virtual Machine (JVM).
+- **Object-Oriented**: Java is based on the principles of object-oriented programming (OOP), supporting concepts like inheritance, polymorphism, encapsulation, and abstraction.
 - **Simple Syntax**: Java's syntax is similar to C++, making it easier for developers familiar with those languages to adopt it.
 - **Automatic Memory Management**: Java includes garbage collection, which automatically handles memory allocation and deallocation.
 - **Multithreading**: Built-in support for multithreaded programming allows concurrent execution of code.
