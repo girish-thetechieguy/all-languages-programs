@@ -8,8 +8,8 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.RepetitionInfo;
 import org.junit.jupiter.api.TestInfo;
-public class _23_RepeatedTestsDemo {
-    private Logger logger = Logger.getLogger(_23_RepeatedTestsDemo.class.getName());
+public class _23_RepeatedTestsDemoTest {
+    private Logger logger = Logger.getLogger(_23_RepeatedTestsDemoTest.class.getName());
 
     @BeforeEach
     void beforeEach(TestInfo testInfo, RepetitionInfo repetitionInfo) {
