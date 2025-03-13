@@ -32,4 +32,40 @@ class _02_CalculatorTest {
         assertEquals("Division by zero is not allowed", exception.getMessage());
     }
 
+    @Test
+    void failsDueToUncaughtAssertionError() {
+        // The following incorrect assertion will cause a test failure.
+        // The expected value should be 2 instead of 99.
+        assertEquals(99, calculator.add(1, 1));
+    }
+
+    @Test
+    void testExpectedExceptionIsThrown() {
+        // The following assertion succeeds because the code under assertion
+        // throws the expected IllegalArgumentException.
+        // The assertion also returns the thrown exception which can be used for
+        // further assertions like asserting the exception message.
+        IllegalArgumentException exception =
+                assertThrows(IllegalArgumentException.class, () -> {
+                    throw new IllegalArgumentException("expected message");
+                });
+        assertEquals("expected message", exception.getMessage());
+
+        // The following assertion also succeeds because the code under assertion
+        // throws IllegalArgumentException which is a subclass of RuntimeException.
+        assertThrows(RuntimeException.class, () -> {
+            throw new IllegalArgumentException("expected message");
+        });
+    }
+
+    @Test
+    void testExceptionIsNotThrown() {
+        assertDoesNotThrow(() -> {
+            shouldNotThrowException();
+        });
+    }
+
+    void shouldNotThrowException() {
+    }
+
 }

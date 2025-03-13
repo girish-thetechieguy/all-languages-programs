@@ -2,7 +2,7 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class _021_CalculatorTest {
+class _22_CalculatorTest {
     private _02_Calculator calculator;
 
     // @BeforeAll runs once before all tests in the class
@@ -55,6 +55,11 @@ class _021_CalculatorTest {
     @AfterAll
     static void tearDownAll() {
         System.out.println("All Calculator Tests Completed");
+    }
+
+    @RepeatedTest(10)
+    void repeatedTest() {
+        // ...
     }
 
 }
