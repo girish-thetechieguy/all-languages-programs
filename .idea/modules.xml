@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Java/01_Java.iml" filepath="$PROJECT_DIR$/01_Java/01_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Python3_11/04_Python3_11.iml" filepath="$PROJECT_DIR$/04_Python3_11/04_Python3_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_SpringFramework/07_SpringFramework.iml" filepath="$PROJECT_DIR$/07_SpringFramework/07_SpringFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_SpringBoot_Concepts/10_SpringBoot_Concepts.iml" filepath="$PROJECT_DIR$/10_SpringBoot_Concepts/10_SpringBoot_Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-01.0-Featutes/Java-01.0-Featutes.iml" filepath="$PROJECT_DIR$/01_Java/Java-01.0-Featutes/Java-01.0-Featutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-01.1-Featutes/Java-01.1-Featutes.iml" filepath="$PROJECT_DIR$/01_Java/Java-01.1-Featutes/Java-01.1-Featutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-01.2-Featutes/Java-01.2-Featutes.iml" filepath="$PROJECT_DIR$/01_Java/Java-01.2-Featutes/Java-01.2-Featutes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-01.3-Features/Java-01.3-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-01.3-Features/Java-01.3-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-01.4-Features/Java-01.4-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-01.4-Features/Java-01.4-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-05-Features/Java-05-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-05-Features/Java-05-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-06-Features/Java-06-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-06-Features/Java-06-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-07-Features/Java-07-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-07-Features/Java-07-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-08-Features/Java-08-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-08-Features/Java-08-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-09-Feature/Java-09-Feature.iml" filepath="$PROJECT_DIR$/01_Java/Java-09-Feature/Java-09-Feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-10-Features/Java-10-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-10-Features/Java-10-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-11-Features/Java-11-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-11-Features/Java-11-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-12-Features/Java-12-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-12-Features/Java-12-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-13-Features/Java-13-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-13-Features/Java-13-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-14-Features/Java-14-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-14-Features/Java-14-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-15-Features/Java-15-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-15-Features/Java-15-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-16-Features/Java-16-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-16-Features/Java-16-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-17-Features/Java-17-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-17-Features/Java-17-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-18-Features/Java-18-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-18-Features/Java-18-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-19-Features/Java-19-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-19-Features/Java-19-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-20-Features/Java-20-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-20-Features/Java-20-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-21-Features/Java-21-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-21-Features/Java-21-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-22-Features/Java-22-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-22-Features/Java-22-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Java/Java-23-Features/Java-23-Features.iml" filepath="$PROJECT_DIR$/01_Java/Java-23-Features/Java-23-Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/all-languages-programs.iml" filepath="$PROJECT_DIR$/.idea/all-languages-programs.iml" />
+    </modules>
+  </component>
+</project>
