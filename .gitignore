@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/02_Junit/target/*
+/02_Junit/target/
 /.idea/*
 *.lst
