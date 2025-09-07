@@ -1,6 +1,2 @@
 # Default ignored files
-/shelf/
-/workspace.xml
-/02_Junit/target/
-/.idea/*
-*.lst
+.idea/.gitignore

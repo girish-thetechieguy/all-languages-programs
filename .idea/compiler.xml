@@ -17,6 +17,7 @@
       <module name="05_HTML_JS_CSS" target="1.8" />
       <module name="070_SpringBasics" target="1.8" />
       <module name="07_JavaScript" target="1.5" />
+      <module name="Java-24-Features" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

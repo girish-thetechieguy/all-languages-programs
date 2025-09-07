@@ -1,1 +1,0 @@
-java -XX:ArchiveClassesAtExit -jar YourApplication.jar
