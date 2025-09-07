@@ -1,3 +1,7 @@
+// Compile and run with:
+// javac --enable-preview --release 24 PatternSwitch.java
+// java --enable-preview PatternSwitch
+
 public class _01_PrimitivePatternMatchSwitch {
 	public static void main(String[] args) {
 		Object value = 42;
